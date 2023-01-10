@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid;
+    margin:0px 15vw;
+    padding: 15px;
+    background-color: rgba(137, 43, 226, 0.596);
+}
+
+#form{
+    border: 1px solid;
+    padding:10px 20vw;
+    background-color: rgba(128, 128, 128, 0.651);
+}
+#btn{
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: green;
+}
